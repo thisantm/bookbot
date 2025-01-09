@@ -9,7 +9,7 @@ def main():
     print(f"{words} words found in the document")
 
     for items in letters_list:
-        print(f"The '{items["char"]}' character was found {items["num"]} times")
+        print(f"The '{items['char']}' character was found {items['num']} times")
     print("--- End report ---")
 
 
