@@ -1,5 +1,7 @@
 # BookBot
 
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
 BookBot is a simple Python project that reads a text file, counts the words and letters, and generates a report.
 
 ## Installation
